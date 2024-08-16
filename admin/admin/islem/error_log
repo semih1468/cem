@@ -1,0 +1,13 @@
+[28-Apr-2024 18:43:24 Europe/Istanbul] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/narposc1/public_html/admin/admin/islem/class.upload.php on line 2778
+[28-Apr-2024 18:43:25 Europe/Istanbul] PHP Fatal error:  Cannot redeclare curl() (previously declared in /home/narposc1/public_html/admin/admin/islem/islem.php:10) in /home/narposc1/public_html/admin/admin/islem/islem.php on line 925
+[28-Apr-2024 18:43:42 Europe/Istanbul] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/narposc1/public_html/admin/admin/islem/class.upload.php on line 2778
+[28-Apr-2024 18:43:42 Europe/Istanbul] PHP Notice:  Undefined index: kurumsal_keywords in /home/narposc1/public_html/admin/admin/islem/islem.php on line 309
+[28-Apr-2024 18:43:42 Europe/Istanbul] PHP Notice:  Undefined index: kurumsal_description in /home/narposc1/public_html/admin/admin/islem/islem.php on line 310
+[28-Apr-2024 18:43:42 Europe/Istanbul] PHP Notice:  Undefined index: kurumsal_reklam in /home/narposc1/public_html/admin/admin/islem/islem.php on line 311
+[28-Apr-2024 18:43:42 Europe/Istanbul] PHP Notice:  Undefined index: kurumsal_keywords in /home/narposc1/public_html/admin/admin/islem/islem.php on line 313
+[20-May-2024 15:21:38 Europe/Istanbul] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/narposc1/public_html/admin/admin/islem/class.upload.php on line 2778
+[20-May-2024 15:21:44 Europe/Istanbul] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/narposc1/public_html/admin/admin/islem/class.upload.php on line 2778
+[20-May-2024 15:21:52 Europe/Istanbul] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/narposc1/public_html/admin/admin/islem/class.upload.php on line 2778
+[20-May-2024 15:22:23 Europe/Istanbul] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/narposc1/public_html/admin/admin/islem/class.upload.php on line 2778
+[20-May-2024 15:22:32 Europe/Istanbul] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/narposc1/public_html/admin/admin/islem/class.upload.php on line 2778
+[20-May-2024 15:22:33 Europe/Istanbul] PHP Fatal error:  Cannot redeclare curl() (previously declared in /home/narposc1/public_html/admin/admin/islem/islem.php:10) in /home/narposc1/public_html/admin/admin/islem/islem.php on line 925
